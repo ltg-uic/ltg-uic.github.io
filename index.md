@@ -11,6 +11,7 @@ The purpose of this website is to collect the documentation of all the software 
 ## Projects
 
 * [The Hunger Games](https://github.com/ltg-uic/hunger-games/wiki)
+* [Phenomena Server](https://github.com/ltg-uic/phenomena-server/wiki)
 
 ## Other stuff
 In this section you can find the documentation for all the cross-project libraries and tools that we are developing/developed
